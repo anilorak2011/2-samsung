@@ -3,8 +3,8 @@ body {
     background-color: aqua;
 }
 .logo{
-    height: 100 px;
-    width: 100 px;
+    height:100px;
+    width: 100px;
 }
 h1{
     display: flex;
@@ -13,37 +13,37 @@ h1{
 header img{
     display: flex;
     justify-content: start;
-    height: 50 px;
+    height: 50px;
 }
 main table{
     background-color: blue;
 }
 td img{
-    height: 300 px;
-    width: 500 px;
+    height: 300px;
+    width: 500px;
 }
 main tr, main td{
-    border:10 px solid darkblue;
-     border-radius: 18 px;
+    border:10px solid darkblue;
+     border-radius: 18px;
 }
 table, h2{
     display: flex;
     justify-content: center;
 }
 footer table{
-    background color: light grey;
-    border: 5 px solid gray;
-    border-radius: 10 px;
+    background-color: lightgrey;
+    border:5px solid gray ;
+    border-radius: 10px;
 }
 nav {
-    border-bottom: 1 px dashed navy;
+    border-bottom: 1px dashed navy;
 }
 
 nav a {
     display: flex;
     justify-content: flex-end;
     text-decoration: none;
-    font-size:20 px;
+    font-size: 20px;
     color: black;
-    margin: 30 px;
+    margin: 30px;
 }
